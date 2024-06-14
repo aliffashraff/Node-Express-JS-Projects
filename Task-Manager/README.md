@@ -1,4 +1,4 @@
-# Store-Api-Project
+# Task-Manager-Project
 ## Instructions
 1. Run 'npm install' in terminal (download node_modules)
 2. Create .env file in the root
@@ -6,5 +6,5 @@
 4. Run 'npm start' in terminal
 ## Routes
 1. Home - localhost:3000/
-2. Get all products - localhost:3000/api/v1/products
-3. Get all products static - localhost:3000/api/v1/products/static
+2. Get all tasks and create task - localhost:3000/api/v1/tasks
+3. Get single task, update task and delete task - localhost:3000/api/v1/:id'
