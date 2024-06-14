@@ -74,12 +74,11 @@ const getAllProducts = async(req, res) => {
 
       //if either price or rating included in the field
       if (options.includes(field)) {
-        //pass field property(priceorrating) in queryObject with operators:value
+        //pass field property(price or rating) in queryObject with operators:value
         queryObject[field] = {[operator]:Number(value)};
       }
     });
   }
-  console.log(queryObject);
 
   //filter featured
   if (featured) {
