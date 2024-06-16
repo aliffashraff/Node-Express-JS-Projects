@@ -8,4 +8,4 @@
 ## Instructions
 1. Read README.md in each project file
 2. Some of the projects have front-end and some dont
-3. To see the result preferably to use the Postman to create request to the backend and view the response 
+3. To see the result preferably to use the Postman to create request to the backend and view the response
