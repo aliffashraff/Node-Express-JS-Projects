@@ -1,4 +1,0 @@
-Pending
-
-1. Hosting
-2. swagger
